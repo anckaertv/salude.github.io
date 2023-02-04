@@ -21,3 +21,13 @@ In case of issues, advices, feedback, or if you want to get involved, please fee
 Any help is appreciated as this is the early versions of the app.
 
 Cheers to that!
+
+
+Steps to follow to delete your data:
+1. Go to the account page of your app.
+2. Locate the user ID associated with their account.
+3. Compose an email to Anckaert.victor@me.com.
+4. In the subject line of the email, write "Request for Data Deletion."
+5. In the body of the email, include their user ID and a clear statement that they would like all of their data to be deleted from your Firebase app.
+6. Send the email.
+7. Wait for a response from you confirming that their data has been deleted.
